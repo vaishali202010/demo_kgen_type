@@ -25,7 +25,7 @@ services:
     targetPort: 8000
     replicas: 1
     image:
-      repository: yourusername/product-service
+      repository: vaishali841/product-service
       tag: latest
   
   payment:
